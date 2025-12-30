@@ -11,7 +11,14 @@ Mi experiencia como docente me ha permitido desarrollar habilidades transferible
 
 ---
 
+## 📂 Proyectos destacados
+🚕 Aplicación web para análisis de datos de vehículos
+Creación y gestión de entornos virtuales de Python y el desarrollo de una aplicación web.
+🔗 https://github.com/jesushr-1/mi-proyecto-vehiculos.git
 
+🛒 Análisis de viajes en diferentes condiciones climatológicas
+Comparación en el uso de taxis en diferentes escenarios meteorológicos.
+🔗 https://github.com/jesushr-1/mi-proyecto-viajes.git
 
 ## 📬 Contacto
 - 📧 Email: jesushr_1@hotmail.com  
